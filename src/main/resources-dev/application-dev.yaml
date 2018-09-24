@@ -46,3 +46,6 @@ spring:
 #用户url
 smsSendUrl: http://172.18.103.202:9800/smsSend/sendVerifyCode
 userUrl: http://172.18.103.202:9800
+
+zookeeper:
+   host: 192.168.88.128:2181
